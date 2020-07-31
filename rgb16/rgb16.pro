@@ -1,4 +1,4 @@
-update=Sat 20 Jun 2020 05:25:08 PM EDT
+update=Sun 21 Jun 2020 11:49:13 AM EDT
 version=1
 last_client=kicad
 [general]
@@ -33,3 +33,7 @@ LibDir=
 [eeschema/libraries]
 [LibeditFrame]
 version=1
+[SchematicFrame]
+version=1
+[sheetnames]
+1=8fc0cadc-544c-4acf-b4f8-588347f36a11:

@@ -1,4 +1,4 @@
-(kicad_sch (version 20200608) (host eeschema "5.99.0-unknown-e164269~101~ubuntu20.04.1")
+(kicad_sch (version 20200608) (host eeschema "5.99.0-unknown-0bfe413~101~ubuntu20.04.1")
 
   (page 1 19)
 
@@ -218,8 +218,8 @@
   (junction (at 78.74 119.38))
   (junction (at 78.74 121.92))
 
-  (no_connect (at 66.04 91.44))
   (no_connect (at 66.04 88.9))
+  (no_connect (at 66.04 91.44))
 
   (wire (pts (xy 66.04 76.2) (xy 71.12 76.2))
     (stroke (width 0) (type solid) (color 0 0 0 0))
@@ -446,10 +446,10 @@
     (path "/b44a34ee-9ad5-4f47-912b-ade9c839e1cf/563a07bf-a848-4e03-8948-c0003a72d7bc"
       (reference "Q16") (unit 1)
     )
-    (path "/b44a34ee-9ad5-4f47-912b-ade9c839e1cf/d50005e1-d15b-4e79-9c70-b902ab9bd85d"
+    (path "/b44a34ee-9ad5-4f47-912b-ade9c839e1cf/fa8fd130-167d-4d0e-be88-792ecaddc170"
       (reference "U1") (unit 1)
     )
-    (path "/b44a34ee-9ad5-4f47-912b-ade9c839e1cf/2215dcf0-221f-4815-af9e-dffd6d81f578"
+    (path "/b44a34ee-9ad5-4f47-912b-ade9c839e1cf/5f0bdadc-cba9-47e6-beb0-365561d688c3"
       (reference "U2") (unit 1)
     )
     (path "/b44a34ee-9ad5-4f47-912b-ade9c839e1cf/c4eaee11-beee-4d23-8d72-57770b893eaa/c4690764-fec2-420c-af6c-995e3f592a63"
